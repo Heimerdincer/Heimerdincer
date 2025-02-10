@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Heimerdincer
+- 👋 Hi, I’m @yo-da
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on manage companies
 - 📫 How to reach me Contact me
-- 😄 Pronouns: Dincer
+- 😄 Pronouns: yoda
 - ⚡ Fun fact: Nah
 
 <!---
